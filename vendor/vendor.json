@@ -75,36 +75,6 @@
 			"revisionTime": "2015-12-25T08:11:49Z"
 		},
 		{
-			"checksumSHA1": "Zi4PhJrQcBJtWh/G7FMBbA6pQ7o=",
-			"path": "github.com/lisijie/webcron/app/controllers",
-			"revision": "fb01a7d021806101d7b5d81592f0bbaabcf7d0aa",
-			"revisionTime": "2016-03-21T07:10:42Z"
-		},
-		{
-			"checksumSHA1": "88in+olR//JjU3WogBN5k4zeksw=",
-			"path": "github.com/lisijie/webcron/app/jobs",
-			"revision": "fb01a7d021806101d7b5d81592f0bbaabcf7d0aa",
-			"revisionTime": "2016-03-21T07:10:42Z"
-		},
-		{
-			"checksumSHA1": "bnaP341Zk8WuVh+TG2VATsXufVo=",
-			"path": "github.com/lisijie/webcron/app/libs",
-			"revision": "fb01a7d021806101d7b5d81592f0bbaabcf7d0aa",
-			"revisionTime": "2016-03-21T07:10:42Z"
-		},
-		{
-			"checksumSHA1": "ahDIw/NEyGU8UL5x20hc+XApyzQ=",
-			"path": "github.com/lisijie/webcron/app/mail",
-			"revision": "fb01a7d021806101d7b5d81592f0bbaabcf7d0aa",
-			"revisionTime": "2016-03-21T07:10:42Z"
-		},
-		{
-			"checksumSHA1": "P/t1IQ2/wKU1VyPiUnnQ8l4fBJA=",
-			"path": "github.com/lisijie/webcron/app/models",
-			"revision": "fb01a7d021806101d7b5d81592f0bbaabcf7d0aa",
-			"revisionTime": "2016-03-21T07:10:42Z"
-		},
-		{
 			"checksumSHA1": "WDIEwJxZgJna4kzVOUb65zvsa54=",
 			"path": "github.com/mattn/go-sqlite3",
 			"revision": "ed69081a91fd053f17672236b0dd52ba7485e1a3",
